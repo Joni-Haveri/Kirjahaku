@@ -36,5 +36,4 @@ Jos haet hyvin yleisellä hakusanalla, saat paljon tuloksia; ohjelma näyttää 
 
 # Tekijä
 Joni Haveri
-
 jonihaveri08@gmail.com
