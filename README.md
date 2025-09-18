@@ -32,7 +32,7 @@ Jatka hakua tai lopeta ohjelma
 # Huomioitavaa
 Ohjelma toimii vain vakaalla internet-yhteydellä. (API-pyyntöjen takia)
 
-Jos haet hyvin yleisellä hakusanalla, saat paljon tuloksia; ohjelma näyttää vain viisi osuvinta.
+Jos haet hyvin yleisellä hakusanalla, saat todella paljon tuloksia; ohjelma näyttää vain ja ainoastaan viisi osuvinta.
 
 # Tekijä
 Joni Haveri
