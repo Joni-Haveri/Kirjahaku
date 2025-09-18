@@ -34,9 +34,5 @@ Ohjelma toimii vain vakaalla internet-yhteydellä. (API-pyyntöjen takia)
 
 Jos haet hyvin yleisellä hakusanalla, saat todella paljon tuloksia; ohjelma näyttää vain ja ainoastaan viisi osuvinta.
 
-# Tekijä
-Joni Haveri
-jonihaveri08@gmail.com
-
 # Lisenssi
 Projekti on lisensoitu MIT License -lisenssillä. MIT-lisenssi on avoin ja sallii projektin käytön, kopioinnin, muokkaamisen ja jakamisen, kunhan alkuperäinen tekijä mainitaan ja lisenssi liitetään mukaan.
