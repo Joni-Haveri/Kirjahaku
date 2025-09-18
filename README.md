@@ -20,8 +20,6 @@ Asenna riippuvuus requests terminaalissa (pip install requests)
 
 Suorita ohjelma terminaalissa: python kirjanhaku.py
 
-exe-tiedostona myös mahdollinen
-
 # Seuraa terminaalin ohjeita
 Valitse hakutapa: kirjan nimi (1), kirjailija (2) tai yhdistetty haku (3)
 
@@ -38,7 +36,5 @@ Jos haet hyvin yleisellä hakusanalla, saat paljon tuloksia; ohjelma näyttää 
 
 # Tekijä
 Joni Haveri
+
 jonihaveri08@gmail.com
-
-# Lisenssi
-
