@@ -16,7 +16,7 @@ Tarkistaa verkkoyhteyden ennen haun aloittamista
 # Asennus ja käyttö
 Varmista, että Python on asennettuna (versio 3.7 tai uudempi)
 
-Asenna riippuvuus requests terminaalissa (pip install requests)
+Asenna kirjasto 'requests' terminaalissa (pip install requests)
 
 Suorita ohjelma terminaalissa: python kirjanhaku.py
 
